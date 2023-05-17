@@ -1,5 +1,7 @@
 #### [UPLOADER-BOT](https://t.me/uploader_x_bot)
 
+<a href="https://heroku.com/deploy?template=https://github.com/Jegaa1/UPLOADER-BOT?organization=Jegaa1&organization=Jegaa1"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku Button"></a>
+
 [![Size](https://img.shields.io/github/repo-size/Clinton-Abraham/UPLOADER-BOT?style=flat-square&color=green)](https://github.com/Clinton-Abraham/UPLOADER-BOT)
 
 ---
